@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👩‍💻 SQA Portfolio by Mahrukh Siddiqui
 
-<!--
-**mahrukhsiddiqui44/mahrukhsiddiqui44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Software Quality Assurance (SQA) Portfolio. This repository demonstrates my hands-on experience in **manual testing**, **API testing**, **automation (Selenium)**, and **database testing** using both SQL and MongoDB.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Repository Structure
+
+| Folder | Description |
+|--------|-------------|
+| `Postman-Collections/` | Sample Postman API collections for testing. |
+| `Database-Testing/` | SQL & MongoDB schemas and test cases for database testing. |
+| `AutomationScripts/` | Selenium test scripts using Python. |
+| `Manual-TestCases/` | Test cases and test plans for sample applications. |
+
+---
+
+## 🔧 Tools Used
+
+- **Postman** – API Testing
+- **Selenium (Python)** – Automation
+- **MySQL, MongoDB** – Database Testing
+- **VS Code, GitHub** – Code & Version Management
+- **Google Sheets, Docs** – Documentation
+
+---
+
+## 📫 Contact
+
+📧 Email: mahrukhsiddiqui44@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/mahrukh-siddiqui-a684a3152/) 
