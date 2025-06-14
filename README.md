@@ -10,7 +10,8 @@ Welcome to my Software Quality Assurance (SQA) Portfolio. This repository demons
 |--------|-------------|
 | `Postman-Collections/` | Sample Postman API collections for testing. |
 | `Database-Testing/` | SQL & MongoDB schemas and test cases for database testing. |
-| `AutomationScripts/` | Selenium test scripts using Python.https://github.com/mahrukhsiddiqui44/Automation-Scripts.git |
+| `AutomationScripts/` | Selenium test scripts using Python.
+https://github.com/mahrukhsiddiqui44/Automation-Scripts.git |
 | `Manual-TestCases/` | Test cases and test plans for sample applications. |
 
 ---
