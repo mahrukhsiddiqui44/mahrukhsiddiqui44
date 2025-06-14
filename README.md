@@ -1,4 +1,5 @@
-👩‍💻 SQA Portfolio by Mahrukh Siddiqui  
+# 👩‍💻 SQA Portfolio by Mahrukh Siddiqui
+
 Welcome to my Software Quality Assurance (SQA) Portfolio. This repository demonstrates my hands-on experience in manual testing, API testing, automation (Selenium), and database testing using both SQL and MongoDB.
 
 📂 Repository Structure  
