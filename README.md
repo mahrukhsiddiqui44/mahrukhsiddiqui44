@@ -2,7 +2,7 @@
 
 Welcome to my Software Quality Assurance (SQA) Portfolio. This repository demonstrates my hands-on experience in manual testing, API testing, automation (Selenium), and database testing.
 
-📂 Repository Structure  
+📂 **Repository Structure** 
 
 | Folder               | Description                                      |
 |----------------------|--------------------------------------------------|
@@ -13,7 +13,9 @@ Welcome to my Software Quality Assurance (SQA) Portfolio. This repository demons
 | [CI Workflows (.github)](https://github.com/mahrukhsiddiqui44/.github.git)         | Basic CI workflows using GitHub Actions.         |
 
 
-🔧**Tools Used**
+
+🔧 **Tools Used**
+
 Postman – API Testing  
 Selenium (Python) – Automation  
 MySQL, MongoDB – Database Testing  
@@ -22,6 +24,7 @@ Google Sheets, Docs – Documentation
 
 
 📫 **Contact Me:**  
+
 📧 Email: mahrukhsiddiqui44@gmail.com  
 🔗 LinkedIn: [https://www.linkedin.com/in/mahrukh-siddiqui-a684a3152/]
 
