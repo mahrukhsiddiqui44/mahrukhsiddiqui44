@@ -11,6 +11,7 @@ Welcome to my Software Quality Assurance (SQA) Portfolio. This repository demons
 | [AutomationScripts](https://github.com/mahrukhsiddiqui44/Automation-Scripts.git)   | Selenium test scripts using Python.              |
 | [Manual-TestCases](https://github.com/mahrukhsiddiqui44/Manual-Testing.git)        | Test cases and test plans for sample applications. |
 | [CI Workflows (.github)](https://github.com/mahrukhsiddiqui44/.github.git)         | Basic CI workflows using GitHub Actions.         |
+| [Gen-AI-Testing](https://github.com/mahrukhsiddiqui44/.Gen-AI-Testing.git)         | Basic CI workflows using GitHub Actions.         |
 
 
 
